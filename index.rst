@@ -156,7 +156,7 @@ Additional information, help
 ..
     Short description and links to any reading materials
 
-Search for an answer: `CyVerse Learning Center <http://www.cyverse.org/learning-center>`_ or `CyVerse Wiki <https://wiki.cyverse.org>`_
+Search for an answer: `CyVerse Learning Center <http://learning.cyverse.org/>`_ or `CyVerse Wiki <https://wiki.cyverse.org>`_
 
 Post your question to the user forum:
 `Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
@@ -165,7 +165,7 @@ Fix or improve this tutorial
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fix this tutorial on GitHub:
-`GitHub <FIX_THIS_IN_YOUR_DOCUMENTATION>`_
+`GitHub <https://github.com/CyVerse-learning-materials/importing_sradata_quickstart>`_
 
 Send a note:
 `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
