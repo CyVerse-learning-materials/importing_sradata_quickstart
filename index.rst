@@ -165,7 +165,7 @@ Fix or improve this tutorial
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fix this tutorial on GitHub:
-`GitHub <https://github.com/CyVerse-learning-materials/importing_sradata_quickstart>`_
+`GitHub <https://github.com/CyVerse-learning-materials/importing_sradata_quickstart/blob/master/index.rst>`_
 
 Send a note:
 `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
