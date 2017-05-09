@@ -170,4 +170,4 @@ Send a note:
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
     :height: 100
-.. _CyVerse logo: https://cyverse-learning-materials-home.readthedocs-hosted.com/en/latest/
+.. _CyVerse logo: http://learning.cyverse.org/
