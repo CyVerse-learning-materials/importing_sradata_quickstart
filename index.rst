@@ -1,5 +1,7 @@
 |CyVerse logo|_
 
+`Learning Center Home <http://learning.cyverse.org/>`_
+
 Importing Data from the NCBI Sequence Read Archive (SRA) using the DE
 =====================================================================
 
