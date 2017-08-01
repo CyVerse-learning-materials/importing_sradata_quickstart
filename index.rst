@@ -91,7 +91,7 @@ Input and example data
       - In this example, we will download accession `SRR1761506 <https://www.ncbi.nlm.nih.gov/sra/?term=SRR1761506>`_
 
 
-----------
+----
 
 
 Get started
@@ -107,7 +107,7 @@ Get started
 
 	 - **Bioproject**: A BioProject is a collection of biological data related to a single initiative, originating from a single organization or from a consortium of coordinating organizations; see for example `Bio Project 272719 <https://www.ncbi.nlm.nih.gov/bioproject/272719>`_
 	 - **Bio Sample**: A description of the source materials for a project
-	 - **Run**: These are the actual sequencing runs (usually starting with SRR); see for example `SRR1761506 <https://www.ncbi.nlm.nih.gov/sra/?term=SRR1761506>`_
+	 - **Run**: These are the actual sequencing runs (usually starting with SRR); see for example `SRR1761506 <https://www.ncbi.nlm.nih.gov/sra/?term=SRR1761506>`__
 
 
 #. Obtain an SRA accession number (starting SRR***); If you do not have an accession, you can go to the `SRA homepage <https://www.ncbi.nlm.nih.gov/sra>`_ and search using a variety of search terms and filters (e.g. DNA vs. RNA, exome vs. genome, etc.)
@@ -115,7 +115,8 @@ Get started
 .. Note::
 	On the SRA homepage for each accession, you may wish to record some useful information about the run, including the sequencing format and the file size.
 
-2. Log in to the `Discovery Environment <https://de.cyverse.org/de/>`_ and click on **Apps** and launch the `NCBI-SRA-Fastq-dump-2.8.1 <https://de.cyverse.org/de/?type=apps&app-id=37c71edc-0a09-11e7-8bc3-008cfa5ae621&system-id=de>`_ App
+2. Log in to the `Discovery Environment`_ and click on `NCBI-SRA-Fastq-dump-2.8.1 <https://de.cyverse.org/de/?type=apps&app-id=37c71edc-0a09-11e7-8bc3-008cfa5ae621&system-id=de>`_
+   App or clcik on **Apps** to search for an launch this App.
 3. Name your analysis and enter any desired comments
 4. Under "Inputs" enter the SRA accession run number (if you have already downloaded an SRA file you can use this App to decompress it into a fastq file - search for the file using the 'Browse' button)
 
@@ -132,6 +133,8 @@ Get started
 8. To view the status of the import and obtain results click on the **Analysis** icon
 9. When the job status is marked 'Completed' in the Analysis window (you may have to refresh), click on the job name (e.g. 'SRA-Import-0.1.0_analysis1') to view the result in your data store
 
+----
+
 Summary
 ~~~~~~~
 In addition to a folder of logs you should have the following files:
@@ -141,14 +144,14 @@ In addition to a folder of logs you should have the following files:
 
 **Next Steps:**
 
-----------
-
 Some common next steps include
 
 1. Using `FastQC <https://www.bioinformatics.babraham.ac.uk/projects/fastqc/>`_ to check the quality of the sequence reads
 2. Using `Trimmomatic <http://www.usadellab.org/cms/?page=trimmomatic>`_ to filter and trim reads for quality control
 
 Both of these applications are available for use in the Discovery Environment. See `DE Apps catalog <https://wiki.cyverse.org/wiki/display/DEapps/List+of+Applications>`_
+
+----
 
 Additional information, help
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,8 +164,9 @@ Search for an answer: `CyVerse Learning Center <http://learning.cyverse.org/>`_ 
 Post your question to the user forum:
 `Ask CyVerse <http://ask.iplantcollaborative.org/questions>`_
 
-Fix or improve this tutorial
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----
+
+**Fix or improve this documentation**
 
 Fix this tutorial on GitHub:
 `GitHub <https://github.com/CyVerse-learning-materials/importing_sradata_quickstart/blob/master/index.rst>`_
@@ -171,7 +175,7 @@ Send a note:
 `Tutorials@CyVerse.org <Tutorials@CyVerse.org>`_
 
 |Home_Icon|_
-`Learning Center Home <http://learning.cyverse.org/>`_
+`Learning Center Home`_
 
 .. |CyVerse logo| image:: ./img/cyverse_rgb.png
     :width: 500
