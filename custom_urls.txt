@@ -1,0 +1,54 @@
+.. Comment: Version 2.0, May 2020
+.. Comment: URLS
+
+
+.. Comment: Fix this link if you are using a quicklaunch button
+
+.. |CyVerse_launch| image:: ./img/Powered-By-CyVerse-blue.png
+    :width: 125
+    :height: 20
+    :target: https://de.cyverse.org/de/  target="_blank"
+
+
+.. |FastQC| raw:: html
+
+   <a href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/" target="blank">FastQC</a>
+
+
+.. |Trimmomatic| raw:: html
+
+   <a href="http://www.usadellab.org/cms/?page=trimmomatic" target="blank">Trimmomatic</a>
+
+
+.. |SRA| raw:: html
+
+   <a href="https://www.ncbi.nlm.nih.gov/sra" target="blank">SRA</a>
+
+
+.. |BioProject 272719| raw:: html
+
+   <a href="https://www.ncbi.nlm.nih.gov/bioproject/272719" target="blank">BioProject 272719</a>
+
+
+.. |SRR1761506| raw:: html
+
+   <a href="https://www.ncbi.nlm.nih.gov/sra/?term=SRR1761506" target="blank">SRR1761506</a>
+
+
+.. |parallel-fastq-dump-0.6.1| raw:: html
+
+   <a href="https://de.cyverse.org/de/?type=apps&app-id=e2194b96-c988-11e7-9224-008cfa5ae621&system-id=de" target="blank">parallel-fastq-dump-0.6.1</a>
+
+
+.. |DE Apps catalog| raw:: html
+
+   <a href="https://wiki.cyverse.org/wiki/display/DEapps/List+of+Applications>" target="blank">DE Apps Catalog</a>
+
+
+.. |SRA Help Manual| raw:: html
+
+   <a href="https://www.ncbi.nlm.nih.gov/books/NBK56913/" target="blank">SRA Help Manual</a>
+
+.. |GitHub Repo Link| raw:: html
+
+   <a href="https://github.com/CyVerse-learning-materials/importing_sradata_quickstart" target="blank">GitHub Repo Link</a>
