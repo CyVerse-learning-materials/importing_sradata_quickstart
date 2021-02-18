@@ -115,7 +115,7 @@ Get started
 .. Note::
 	On the SRA homepage for each accession, you may wish to record some useful information about the run, including the sequencing format and the file size.
 
-2. Log in to the `Discovery Environment`_ and click on `NCBI-SRA-Fastq-dump-2.8.1 <https://de.cyverse.org/de/?type=apps&app-id=37c71edc-0a09-11e7-8bc3-008cfa5ae621&system-id=de>`_
+2. Log in to the `Discovery Environment`_ and click on `NCBI-SRA-Fastq-dump-2.8.1 <https://de.cyverse.org/de/?type=apps&app-id=3d7b6976-b7bf-11e9-b999-008cfa5ae621&system-id=de>`_
    App or clcik on **Apps** to search for an launch this App.
 3. Name your analysis and enter any desired comments
 4. Under "Inputs" enter the SRA accession run number (if you have already downloaded an SRA file you can use this App to decompress it into a fastq file - search for the file using the 'Browse' button)
